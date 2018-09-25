@@ -59,7 +59,7 @@
             "value": "Premium_LRS"
         },
         "virtualMachineSize": {
-            "value": "Standard DS1 v2"
+            "value": "Standard_D1_v2"
         },
         "adminUsername": {
             "value": "azureops"
